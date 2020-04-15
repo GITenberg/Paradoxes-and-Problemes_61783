@@ -1,0 +1,26 @@
+_repo: Paradoxes-and-Problemes_61783
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Donne, John
+    aliases:
+    - Donn, John
+    - Done, John
+    birthdate: 1572
+    deathdate: 1631
+    gutenberg_agent_id: '8886'
+    url: http://www.gutenberg.org/2009/agents/8886
+    wikipedia: http://en.wikipedia.org/wiki/John_donne
+description: ''
+gutenberg_issued: '2020-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61783'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Paradoxes and Problemes
+url: http://www.gutenberg.org/ebooks/61783
