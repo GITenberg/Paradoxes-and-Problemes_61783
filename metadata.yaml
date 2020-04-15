@@ -1,5 +1,8 @@
 _repo: Paradoxes-and-Problemes_61783
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61783-h/images/cover.jpg
 creator:
   author:
     agent_name: Donne, John
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8886
     wikipedia: http://en.wikipedia.org/wiki/John_donne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61783#Paradoxes-and-Problemes
 gutenberg_issued: '2020-04-08'
 gutenberg_type: Text
 identifiers:
